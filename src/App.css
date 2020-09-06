@@ -96,7 +96,7 @@ body {
 
 .message > * {
 	padding: 5px 10px;
-	max-width: 75%;
+	max-width: 80%;
 	border-radius: 2px;
 	margin: 10px 0;
 	overflow-wrap: break-word;
